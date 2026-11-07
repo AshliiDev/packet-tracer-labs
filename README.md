@@ -18,4 +18,4 @@ More labs will be added as I progress.
 ## About me
 
 I'm Hanna Solis, a BSIT graduate (Cybersecurity) building my networking skills.
-Portfolio: [add your portfolio link here](https://yourusername.github.io/portfolio-website)
+Portfolio:
